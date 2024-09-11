@@ -1,5 +1,7 @@
 import React from 'react'
 import Navbar from './components/Navbar'
+import Hero from './components/Hero'
+import AboutMe from './components/AboutMe'
 
 const App = () => {
   return (
@@ -8,6 +10,8 @@ const App = () => {
 
       {/* navbar */}
         <Navbar/>
+        <Hero />
+        <AboutMe/>
         
     </div>
   )
