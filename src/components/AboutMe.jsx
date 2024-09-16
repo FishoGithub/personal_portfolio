@@ -14,9 +14,9 @@ const AboutMe = () => {
                 <h1 className='text-center font-semibold text-5xl mb-auto py-3 px-3 bg-emerald-300 rounded-xl bg-opacity-30 ' >About Me ‎ ‎✌️</h1>
             </div>
             <div className='col-span-1 row-span-2 flex items-center justify-center ' >
-                <p className='font-medium text-lg leading-normal justify-center px-20' >Hey, I'm Mihir Majgaonkar, a student who's an aspiring physician and developer based in Seattle, Washington.<br></br>
+                <p className='font-medium text-lg leading-normal justify-center px-20' >Hey, I'm <a className='font-semibold'>Mihir Majgaonkar</a>, a student who's an aspiring physician and developer based in Seattle, Washington.<br></br>
                 <br></br>I'm passionate about medicine, and seek out clinical experience wherever possible. I love building interesting and fun projects which help improve my skills.<br></br>
-                <br></br>My passion for medicine stems from my desire to solve problems. If a problem isn't solved, I don't stop trying until I can fix it. I'd love to take this approach into the clinic, hospital, or internships I'm a part of.<br></br>
+                <br></br>My passion for medicine stems from my desire to solve problems. If a problem isn't solved, I won't stop trying until I can fix it. I'd love to take this approach into the clinic, hospital, or internships I'm a part of.<br></br>
                 <br></br>In my free time, you can catch me playing tennis, painting, working out, and spending time with my friends.<br></br></p>
 
                 {/* <Stack direction="row" spacing={1} className=''>

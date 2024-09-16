@@ -26,8 +26,8 @@ const Experiences = () => {
                 <TimelineContent>
                     <div className='py-10 mr-80 bg-slate-100 opacity-85 rounded-3xl border-slate-300 border-2 border-solid border-opacity-50'>
                         <h1 className='font-semibold text-2xl  py-3 bg-cyan-300 rounded-xl bg-opacity-30 px-3 mr-60 ml-8'>Founder & CEO‎ ‎ ❤️</h1>
-                        <p className='px-10 py-1 text-gray-500 pt-3'>June 2024 - Present</p>
-                        <p className='py-3 px-10'>The South Asian Heart Foundation is a nonprofit organization I started to help spread awareness and raise funds for Heart Disease in South Asian people.</p>
+                        <p className='px-10 py-1 text-gray-500 pt-3 font-medium'>June 2024 - Present</p>
+                        <p className='py-3 px-10 font-medium text-lg leading-normal'>The South Asian Heart Foundation is a nonprofit organization I started to help spread awareness and raise funds for Heart Disease in South Asian people.</p>
 
                         <Stack direction="row" spacing={1} className=' text-black py-5 px-10'>
                             <Chip label="leadership" size='small' variant='filled' className='text-xl drop-shadow-2xl' color=''/>
@@ -68,7 +68,7 @@ const Experiences = () => {
                 </TimelineSeparator>
                 <TimelineContent>
                     <div className='py-10 mr-80 bg-slate-100 opacity-85 rounded-3xl border-slate-300 border-2 border-solid border-opacity-50 text-left'>
-                        <h1 className='font-semibold text-2xl  py-3 bg-red-400 rounded-xl bg-opacity-30 px-3 mr-44 ml-8'>Youth Tennis Coach‎ ‎ 🎾</h1>
+                        <h1 className='font-semibold text-2xl  py-3 bg-red-300 rounded-xl bg-opacity-30 px-3 mr-44 ml-8'>Youth Tennis Coach‎ ‎ 🎾</h1>
                         <p className='px-10 py-1 text-gray-500 pt-3'>June 2024 - Present</p>
                         <p className='py-3 px-10'>The South Asian Heart Foundation is a nonprofit organization I started to help spread awareness and raise funds for Heart Disease in South Asian people.</p>
 
