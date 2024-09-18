@@ -10,12 +10,12 @@ import { MdContentCopy } from "react-icons/md";
 const Footer = () => {
   return (
     <div className='pb-10'>
-      <div className='grid grid-cols-2 grid-rows-1 bg-slate-100 opacity-85 rounded-3xl border-slate-300 border-2 border-solid border-opacity-50 mx-32 py-20' >
+      <div className='grid grid-cols-2 grid-rows-1 bg-slate-100 opacity-85 rounded-3xl border-slate-300 border-2 border-solid border-opacity-50 mx-32 py-16' >
         <div className='col-span-1 px-20 '>
-            <h1 className='font-semibold text-3xl leading-snug py-1'>Got Questions?</h1>
+            <h1 className='font-semibold text-3xl leading-snug py-1' >Got Questions?</h1>
             <h1 className='font-semibold text-3xl leading-snug py-1'>Let's Chat‎ ‎ 🤙 </h1>
             <p className='py-1 font-medium leading-snug text-gray-500'>Feel free to reach out for any projects, questions, or proposals.</p>
-            <p className='py-1 font-medium leading-snug text-purple-500 pt-5'>mihir.majgaonkar@gmail.com</p>
+            <p className='py-2 font-medium leading-snug text-purple-500'>mihir.majgaonkar@gmail.com</p>
 
         </div>
         <div className='col-span-1 '>
@@ -46,6 +46,7 @@ const Footer = () => {
                   <a href='.' target='_blank'><Chip label="🟢 ‎ ‎ available to work" size='large' variant='outlined' className='text-xl' color='primary'/></a>
                   <LocalTime />
                   <p className='font-medium text-md text-gray-500'><a className='text-xl'>📍</a> ‎ ‎Seattle, WA</p>
+                  {/* <p className='font-semibold text-lg pt-11'>Mihir M.</p> */}
                 </div>
 
             </div>
