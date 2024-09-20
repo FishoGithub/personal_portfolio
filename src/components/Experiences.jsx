@@ -47,7 +47,7 @@ const Experiences = () => {
                 </TimelineSeparator>
                 <TimelineContent sx={{fontFamily: "Poppins",}}>
                     <div className='py-10 ml-80  bg-slate-100 opacity-85 rounded-3xl border-slate-300 border-2 border-solid border-opacity-50 text-left'>
-                        <h1 className='font-semibold text-2xl  py-3 bg-emerald-400 rounded-xl bg-opacity-30 px-3 mr-60 ml-8'>Hospital Intern‎ ‎ 💊</h1>
+                        <h1 className='font-semibold text-2xl  py-3 bg-emerald-400 rounded-xl bg-opacity-30 px-3 mr-60 ml-8'>Medical Intern‎ ‎ 💊</h1>
                         <p className='px-10 py-1 text-gray-500 pt-3 font-medium'>August 2024 - Present</p>
                         <p className='py-3 px-10 font-medium text-md leading-normal text-gray-800'>Intern at COPE Health Solutions, working at Swedish Medical Center in Seattle. Assisted in both Lobby and Orthopedic Insititute departments.</p>
 
