@@ -8,8 +8,7 @@ import { TimelineSeparator } from '@mui/lab'
 import { TimelineConnector } from '@mui/lab'
 import { TimelineContent } from '@mui/lab'
 import { TimelineDot } from '@mui/lab'
-import { TimelineOppositeContent } from '@mui/lab'
-import { small } from 'framer-motion/client';
+
 
 const Experiences = () => {
   return (
